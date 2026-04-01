@@ -183,4 +183,4 @@ Trust Shield Visualization: The dashboard quantifies user credibility, allowing 
 
 Seasonal Heatmap: By tracking the % of Monthly Reviews, stakeholders can predict peak demand per city. For example, marketing spend should shift toward Sydney in November and toward Paris/Rome in May.
 
-ss:
+ss:![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150834.png)
