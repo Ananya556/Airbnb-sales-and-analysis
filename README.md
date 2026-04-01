@@ -84,7 +84,7 @@ Entire homes drive majority of demand
 External factors (pandemics, regulations) significantly impact performance
 Data shows resilience, as the platform adapts to challenges
 
-ss of overview page:https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150601.png
+ss of overview page:![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150601.png)
 
 --Rating page--
 1. Market Supply & Superhost Distribution
@@ -147,6 +147,6 @@ Average Rating: Aggregated scores for Cleanliness, Accuracy, Communication, Loca
 
 Avg Price: Mean cost per night based on room category.
 
-ss:https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150620.png
-https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150654.png
+ss:![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150620.png)
+![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150654.png)
 
