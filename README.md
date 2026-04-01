@@ -150,3 +150,37 @@ Avg Price: Mean cost per night based on room category.
 ss:![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150620.png)
 ![Dashboard preview](https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150654.png)
 
+
+--review page--
+
+4 Reviewer Behavior & Engagement
+One-and-Done Pattern: The majority of reviewers (approx. 4M+) only leave one review. Engagement drops significantly for users with 2 or more reviews, indicating that the platform relies heavily on first-time or occasional travelers.
+
+The Power Users: There is a sharp "elbow" in the cumulative frequency curve around the 6-review mark, with a tiny segment of "Power Reviewers" contributing up to 283 reviews.
+
+5. Seasonality & Market Trends
+Paris & Rome Dominance: The "Monthly Reviews by City" chart shows that Paris (red) and Rome (dark blue) dominate the review share during the summer months (June–August), indicating peak European tourism.
+
+New York Stability: New York (grey) maintains a relatively consistent share of reviews throughout the year compared to the more volatile European markets.
+
+Sydney’s Peak: Sydney (light blue) sees its highest share of activity in December and January, aligning with the Southern Hemisphere's summer.
+
+6. Trust & Safety Metrics
+Verification is Standard: A massive 66.9% of users are both Identified/Verified and have a Profile Picture, which is the "Gold Standard" for platform trust.
+
+The Trust Gap: Only 0.1% of users are verified but lack a profile picture, suggesting that the verification process strongly encourages (or requires) a complete profile.
+
+Anonymous Risks: Users with No Profile Pic and No Verification (0.3%) represent a negligible but present segment that hosts may view as high-risk.
+
+🛠 Problem & Solution (Part 2)
+The Problem
+Host Uncertainty: Hosts often struggle to trust "ghost" profiles (no photo/no verification).
+
+Resource Allocation: Airbnb needs to know when to scale customer support and cleaning services based on seasonal spikes in different global regions.
+
+The Solution
+Trust Shield Visualization: The dashboard quantifies user credibility, allowing the business to see that the vast majority of the community is verified.
+
+Seasonal Heatmap: By tracking the % of Monthly Reviews, stakeholders can predict peak demand per city. For example, marketing spend should shift toward Sydney in November and toward Paris/Rome in May.
+
+ss:
