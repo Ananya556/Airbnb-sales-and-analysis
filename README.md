@@ -147,4 +147,5 @@ Average Rating: Aggregated scores for Cleanliness, Accuracy, Communication, Loca
 
 Avg Price: Mean cost per night based on room category.
 
-ss:
+ss:https://github.com/Ananya556/Airbnb-sales-and-analysis/blob/main/Screenshot%202026-04-01%20150620.png
+
